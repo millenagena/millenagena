@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with Data Science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Engineering
 - 😄 Pronouns: she/her
 
 <div align="center">
