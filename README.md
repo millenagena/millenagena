@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with Data Science
-- 🌱 I’m currently learning Data Engineering
+- 🔭 I’m currently working with Data Engineering
+- 🌱 I’m currently learning Apache Airflow, Spark and AWS
 - 😄 Pronouns: she/her
 
 <div align="center">
