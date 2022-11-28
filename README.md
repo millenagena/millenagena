@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div 
+  style="width: auto;
+    height: auto;
+    object-fit: cover;
+    background-position: 100px 33px;
+    "
+>
+  <img src="https://github.com/millenagena/millenagena/blob/main/millena-capa-youtube.png?raw=true" title="capa" alt="capa" 
+/>
+</div>
+
+
 - 🔭 I’m currently working with Data Engineering
 - 🌱 I’m currently learning Apache Airflow, Spark and AWS
 - 😄 Pronouns: she/her
